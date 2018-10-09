@@ -1,2 +1,3 @@
 # assign_01_action_glee
-[Latest Version](https://kiigri.itch.io/quack-quack-die)
+[Clone](https://kiigri.itch.io/quack-quack-die)
+[Remix](https://kiigri.itch.io/quack-quack-die-remix)
